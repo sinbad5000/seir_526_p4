@@ -37,3 +37,17 @@ Include Graphics or Links to:
 * Breakdown individual tasks and what you plan on working on day by day (in a Trello board or some other project planning tool/format). 
 * Wireframes for app
 * User flow for app
+
+
+
+Close enough right? I'm not sure how to make the game into an app tho, making a homepage with a start that runs the 
+game is definitely a stretch goal
+
+
+1) I'm planning on using Codecademy, Youtube, and Unity's page to learn C# and Unity
+2) to make 2 cars go in a straight line with unity, going to keep it simple
+3) me/ someone who wants to play a racing game
+4) I'm going to try and learn how to remove all the files on the map I don't need, duplicate the car files, and program a simple start and stop function in C# for car 2, I'll try and leave the user controls car 1 already has
+
+Trello: https://trello.com/b/7RWjtYf8/p4
+User flow + Wire frame:   https://app.diagrams.net/#G1wG1TPHti3dXxReGNjcxaS98H3mP7JvpV
